@@ -1,0 +1,10 @@
+each of the .ipynb files will be rendered as static html within github, you can also view them on nbviewer here:
+
+http://nbviewer.jupyter.org/github/uodatascience/python_guide/tree/master/
+
+or download them and run them in ipython:
+
+```
+cd <wherever/you/cloned>
+jupyter notebook
+```
